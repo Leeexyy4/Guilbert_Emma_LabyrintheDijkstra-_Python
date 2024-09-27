@@ -1,0 +1,34 @@
+Compte-Rendu séance du 27/03/2023
+
+DATE : 27/03/2023 de 13h à 16h
+MEMBRES PRÉSENTS : 
+- BEAUREPAIRE Paul
+- GUILBERT Emma
+- HENRION Mathilde
+- LAMOUR Adam
+
+
+TRAVAUX : 
+
+BEAUREPAIRE Paul : 
+- correction des erreurs
+- reflexion à l'algorithme
+
+
+GUILBERT Emma : 
+- mise en forme des categories en dictionnaire
+- relecture et correction des erreurs
+- ajout de tous les éléments du dictionnaire
+- petite reflexion à l'algorithme
+
+
+HENRION Mathilde : 
+- fonction permettant d'obtenir les cases inaccessibles
+- fonction permettant d'obtenir les cases où les clients peuvent marcher
+- reflexion algorithme
+- debut programmation fonction distance (dijkstra)
+
+LAMOUR Adam :
+- correction des erreurs
+- création fonction voisins_produits
+- réfléxion sur les algorithmes

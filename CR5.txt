@@ -1,0 +1,31 @@
+Compte-Rendu séance du 03/04/2023
+
+DATE : 05/04/2023 de 14h30 à 17h30
+MEMBRES PRÉSENTS : 
+- BEAUREPAIRE Paul
+- GUILBERT Emma
+- HENRION Mathilde
+
+MEMBRES EXCUSÉS :
+- LAMMOUR Adam
+
+TRAVAUX : 
+
+BEAUREPAIRE Paul : 
+- réflexion sur affichage de façon graphique du magasin et du parcours
+
+GUILBERT Emma : 
+- réflexion sur affichage de façon graphique du magasin et du parcours
+- fonction affichage créer
+- affichage rayons
+- affichage caisses
+
+
+HENRION Mathilde : 
+- algorithme principal permettant d'obtenir le parcours le plus court pour réaliser une liste de course
+- modification du dictionnaire stockant les caisses
+- ajout du passage par les caisses dans l'algorithme principal
+- création d'un graphe permettant de sortir par le couloir du fond (même si c'est plus long que ressortir de la caisse)
+
+LAMOUR Adam :
+- 

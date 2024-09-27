@@ -1,0 +1,26 @@
+Compte-Rendu séance du 31/03/2023
+
+DATE : 31/03/2023 de 14h30 à 17h30
+MEMBRES PRÉSENTS : 
+- BEAUREPAIRE Paul
+- GUILBERT Emma
+- HENRION Mathilde
+- LAMOUR Adam
+
+
+TRAVAUX : 
+
+BEAUREPAIRE Paul : 
+- fonction cases accessibles à chaque produit
+
+
+GUILBERT Emma : 
+- algorithme dijkstra
+- a partir d'une chaine de caractère trouvé l'emplacement du produit
+
+
+HENRION Mathilde : 
+- programmation fonction distance (dijkstra)
+
+LAMOUR Adam :
+- fonction cases accessibles à chaque produit

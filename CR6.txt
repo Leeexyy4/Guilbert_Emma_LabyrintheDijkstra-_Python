@@ -1,0 +1,27 @@
+Compte-Rendu travail en dehors de séance le 13/04/2023
+
+DATE : 13/04/2023
+MEMBRES PRÉSENTS : 
+- BEAUREPAIRE Paul
+- GUILBERT Emma
+- HENRION Mathilde
+- LAMMOUR Adam
+
+TRAVAUX : 
+
+BEAUREPAIRE Paul : 
+- documentation
+- résolution de problèmes
+
+GUILBERT Emma : 
+- résolution de problèmes
+- ajout de commentaires
+
+
+HENRION Mathilde : 
+- documentation
+- résolution de problèmes
+- ajout du plan du supermarché
+
+LAMOUR Adam :
+- écriture de l'algorithme dans un fichier texte

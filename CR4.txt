@@ -1,0 +1,31 @@
+Compte-Rendu séance du 03/04/2023
+
+DATE : 03/04/2023 de 14h30 à 17h30
+MEMBRES PRÉSENTS : 
+- BEAUREPAIRE Paul
+- GUILBERT Emma
+- HENRION Mathilde
+
+MEMBRES EXCUSÉS :
+- LAMMOUR Adam
+
+TRAVAUX : 
+
+BEAUREPAIRE Paul : 
+- reflechis à la liste de course pour des modifications
+- 
+
+GUILBERT Emma : 
+- modifications de la liste de course
+- programmation fonction cle_produit qui done les cases accessibles à partir d'un produit
+- programme de l'algorithme avec mathilde
+
+
+HENRION Mathilde : 
+- résolution de labyrinthe
+- chemin le plus court entre deux cases
+- algorithme principal avec répétition de la fonction précédente afin de faire toute la liste de course
+- fonction permettant d'obtenir le graphe à partir de la liste des cases accessibles
+
+LAMOUR Adam :
+- 

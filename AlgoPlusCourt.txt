@@ -1,0 +1,37 @@
+Explication en français en l'algoritme "algo_plus_court" par étapes.
+
+- Création d'une position de départ
+- Création d'une liste qui représente le chemin avec la case de départ
+- Initialisation de la distance totale à 0
+
+// Pour les produits de la liste //
+
+- Tant que la liste de course n'est pas vide 
+    - On initialise la distance minimum pour arriver au prochain produit
+    - Pour chaque produit de la liste 
+        - On regarde la case où se trouve le produit
+        - Pour le chemin le plus court pour arriver à ce produit
+            - On compare la distance minimum avec le chemin le plus court pour arriver à ce produit 
+            - Si ce chemin est plus court que la distance minimum 
+                - Alors la distance minimum devient ce chemin
+                - On affecte la position du produit le plus proche par rapport à la distance
+    - On ajoute le chemin pour ce produit au chemin final (pour la liste entière)
+    - On ajoute cette distance à la distance totale
+    - On retire le produit actuel de la liste pour passer au suivant
+
+
+// Pour atteindre la caisse la plus proche //
+
+- On initialise la distance, le nom et la position
+- Pour chaque caisse 
+    - On regarde la case ou il y a une caisse
+    - Pour le chemin le plus court pour arriver à cette caisse
+        - On regarde le chemin le plus court
+        - On ajoute cette distance à la distance finale
+            - si elle est plus petite que la distance initialisée de base 
+                - elle devient la caisse la plus proche
+                - on prend sa position
+- On ajoute le chemin le plus court pour aller a la caisse au chemin final
+- On fait la même chose pour le calcul de la distance
+- On va jusqu'à la sortie
+- Pour finir on renvoie le chemin final
