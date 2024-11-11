@@ -48,8 +48,6 @@
 
 <!-- Description du projet -->
 ### Description du projet
-<!-- Le scénario -->
-**Labyrinthe Dijkstra** est un jeu dans lequel le but est de se déplacer à travers un labyrinthe en utilisant l'algorithme de Dijkstra pour trouver le chemin le plus court entre deux points spécifiques. 
 
 <!-- L'objectif -->
 L'objectif du jeu est de réussir à réaliser le chemin le plus court dans le super-marché en fonction des aliments d'une liste de course prédéfinie.
