@@ -1,7 +1,7 @@
 <!-- INTRODUCTION -->
 <br />
 <div align="center">
-  <img src="https://github.com/Leeexyy4/" alt="Logo" width="*" height="*">
+  <img src="https://github.com/Leeexyy4/Guilbert_Emma_LabyrintheDijkstra_Python/blob/main/plan_supermarche.png" alt="Logo" width="*" height="*">
 
   <p align="center">
     Projet réalisé en 1ère année de BUT Informatique - 2022     
