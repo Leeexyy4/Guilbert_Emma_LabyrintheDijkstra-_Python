@@ -52,15 +52,17 @@
 <!-- L'objectif -->
 L'objectif du jeu est de réussir à réaliser le chemin le plus court dans le super-marché en fonction des aliments d'une liste de course prédéfinie.
 
-Explication de l'algorithme "algo_plus_court" par étapesInitialisation du départ et du chemin : L'algorithme commence par définir une position de départ et initialise une liste représentant le chemin, qui commence avec la case de départ.
+Explication de l'algorithme "algo_plus_court" par étapes
 
-Calcul des chemins pour chaque produit : Tant que la liste des produits à atteindre n'est pas vide, l'algorithme cherche le chemin le plus court vers chaque produit, met à jour la distance minimale et ajoute ce chemin au chemin final.
+1. Initialisation du départ et du chemin : L'algorithme commence par définir une position de départ et initialise une liste représentant le chemin, qui commence avec la case de départ.
 
-Mise à jour de la distance totale : À chaque fois qu'un produit est atteint, la distance parcourue est ajoutée à la distance totale.
+2. Calcul des chemins pour chaque produit : Tant que la liste des produits à atteindre n'est pas vide, l'algorithme cherche le chemin le plus court vers chaque produit, met à jour la distance minimale et ajoute ce chemin au chemin final.
 
-Recherche de la caisse la plus proche : L'algorithme évalue la distance vers chaque caisse, met à jour la caisse la plus proche et ajoute le chemin correspondant au chemin final.
+3. Mise à jour de la distance totale : À chaque fois qu'un produit est atteint, la distance parcourue est ajoutée à la distance totale.
 
-Calcul du chemin jusqu'à la sortie et renvoi du résultat : L'algorithme poursuit le calcul du chemin jusqu'à la sortie et renvoie le chemin complet, incluant tous les produits et la caisse la plus proche.
+4. Recherche de la caisse la plus proche : L'algorithme évalue la distance vers chaque caisse, met à jour la caisse la plus proche et ajoute le chemin correspondant au chemin final.
+
+5. Calcul du chemin jusqu'à la sortie et renvoi du résultat : L'algorithme poursuit le calcul du chemin jusqu'à la sortie et renvoie le chemin complet, incluant tous les produits et la caisse la plus proche.
 
 Une fois que tout le parcours est terminé, l'algorithme renvoie le chemin complet du départ à la sortie.
 
