@@ -1,7 +1,7 @@
 <!-- INTRODUCTION -->
 <br />
 <div align="center">
-  <img src="https://github.com/Leeexyy4/Guilbert_Emma_LabyrintheDijkstra_Python/blob/main/plan_supermarche.png" alt="Logo" width="*" height="*">
+  <img src="https://github.com/Leeexyy4/" alt="Logo" width="*" height="*">
 
   <p align="center">
     Projet réalisé en 1ère année de BUT Informatique - 2022     
@@ -46,8 +46,8 @@
   </ol>
 </details>
 
-<!-- Description du jeu -->
-### Description du jeu
+<!-- Description du projet -->
+### Description du projet
 <!-- Le scénario -->
 **Labyrinthe Dijkstra** est un jeu dans lequel le but est de se déplacer à travers un labyrinthe en utilisant l'algorithme de Dijkstra pour trouver le chemin le plus court entre deux points spécifiques. 
 
@@ -65,13 +65,6 @@ Recherche de la caisse la plus proche : L'algorithme évalue la distance vers ch
 Calcul du chemin jusqu'à la sortie et renvoi du résultat : L'algorithme poursuit le calcul du chemin jusqu'à la sortie et renvoie le chemin complet, incluant tous les produits et la caisse la plus proche.
 
 Une fois que tout le parcours est terminé, l'algorithme renvoie le chemin complet du départ à la sortie.
-
-<p align="right"><a href="#readme-top">&#8593</a></p>
-
-<!-- Description du projet -->
-### Description du projet
-
-Le projet consiste en un jeu où l'algorithme de Dijkstra est utilisé pour résoudre un problème de cheminement dans un labyrinthe. Le joueur choisit un point de départ et un point d'arrivée, et l'algorithme de Dijkstra calcule et affiche le chemin le plus court. Ce projet a été développé pour illustrer l'utilisation d'algorithmes de graphes et la résolution de problèmes de parcours.
 
 <p align="right"><a href="#readme-top">&#8593</a></p>
 
